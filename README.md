@@ -28,9 +28,8 @@ Learning a new language takes time and effort. AI can help people speed up the p
 
 ## Demo Video
 
-<video width="320" height="240" controls>
-  <source src="AdditionalFiles/IMG_2369.MOV" type="video/mp4">
-</video>
+
+https://github.com/pritomrajkhowa22/AITEACHER/blob/main/AdditionalFiles/IMG_2369.MOV
 
 
 
