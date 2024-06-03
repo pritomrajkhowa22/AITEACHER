@@ -21,6 +21,7 @@ Learning a new language takes time and effort. AI can help people speed up the p
 
 ## Sequence Diagram
 
+![alt text](AdditionalFiles/Sequence diagram.png "Sequence Diagram")
 
 
 
